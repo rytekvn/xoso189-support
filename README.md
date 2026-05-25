@@ -1,6 +1,6 @@
-# Xổ Số 189 — Support Page
+# Dò Xổ Số 189 — Support Page
 
-Trang hỗ trợ + Privacy Policy cho ứng dụng iOS **Xổ Số 189**.
+Trang hỗ trợ + Privacy Policy cho ứng dụng iOS **Dò Xổ Số 189**.
 
 ## Live URLs (sau khi enable GitHub Pages)
 
